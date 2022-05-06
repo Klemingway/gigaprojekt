@@ -19,9 +19,9 @@ body{
 }
 
 
-#sekcja1 {
+#wynik {
     width: 80%;
-    height: 800px;
+    height: auto;
     border: 3px solid rgb(82, 6, 126);
     background-color: rgb(236, 98, 218);
 }
