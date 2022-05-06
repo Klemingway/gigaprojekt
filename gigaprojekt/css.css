@@ -1,0 +1,53 @@
+body{
+    background-color: blueviolet;
+}
+
+#baner {
+    width: 99%;
+    height: 200px;
+    background-color: rgb(196, 10, 233);
+    border: 6px solid rgb(82, 6, 126);
+    border-radius: 5px;
+}
+
+#nav {
+    border: 3px solid black;
+    width: 100%;
+    border-radius: 3px;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#sekcja1 {
+    width: 80%;
+    height: 800px;
+    border: 3px solid rgb(82, 6, 126);
+    background-color: rgb(236, 98, 218);
+}
+
+#bocznik1 {
+    position: under;
+    float: right;
+    width: 19%;
+    height: auto;
+    border: 3px solid rgb(82, 6, 126);
+    background-color: rgb(231, 48, 207);
+    font-family: monospace;
+    font-size: 20px;
+}
+#footer1{
+    margin: auto;
+    width: 99%;
+    height: 50px;
+    background-color: rgb(226, 43, 211);
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wynik{
+    width: 80%;
+    height: 800px;
+    border: 3px solid rgb(82, 6, 126);
+    background-color: rgb(236, 98, 218);
+}
