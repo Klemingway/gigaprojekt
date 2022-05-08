@@ -1,0 +1,40 @@
+#header1s3{
+    border: 3px solid black;
+    height: 100px;
+}
+#footer1s3{
+    height: 50px;
+    border: 3px solid black;
+}
+body{
+    background-color: white;
+}
+#section1s3{
+    width: 30%;
+    float: left;
+    border: 3px solid black;
+    height: auto;
+    height:650px;
+    
+}
+#section2s3{
+    width: 30%;
+    border: 3px solid black;
+    height: auto;
+    height:650px;
+    margin: auto;
+
+   
+}
+#section3s3{
+    width: 30%;
+    float: right;
+    border: 3px solid black;
+    height: auto;
+    height:650px;
+    
+}
+#okienka{
+    height:700px;
+    border: 3px solid rgb(8, 250, 218);
+}
